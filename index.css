@@ -1,5 +1,5 @@
 body {
-	background-color:grey;
+	background-color:#7f7dc7;
 }
 
 main {
@@ -7,13 +7,23 @@ main {
 	margin: auto;
 	max-width:1000px;
 	text-align: left;
-	background-color:lime;
+	background-color:#48469c;
+	border-radius: 10px;
 
+}
+
+main section {
+	margin: 10px;
+	padding:10px;
+	width:80%;
+	margin:auto;
 }
 
 main section img {
 	display:block;
 	margin:auto;
-	max-width:600px;
+	max-width:300px;
+	max-height: 300px;
 	width:100%;
+	border-radius:300px;
 }
