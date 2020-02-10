@@ -1,0 +1,11 @@
+body {
+	background-color:grey;
+}
+main {
+	display: block;
+	margin: auto;
+	max-width:1000px;
+	text-align: left;
+	background-color:lime;
+
+}
