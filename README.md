@@ -1,2 +1,2 @@
 # rsschool-cv
-test
+https://tritonjs826.github.io/rsschool-cv
