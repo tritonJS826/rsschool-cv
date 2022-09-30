@@ -1,0 +1,58 @@
+body {
+  background-color: #031204;
+}
+
+main {
+  display: block;
+  margin: auto;
+  max-width: 1000px;
+  text-align: left;
+  background-color: black;
+  border-radius: 10px;
+}
+
+.mainSection {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  padding-top: 20px;
+	padding-bottom: 20px;
+	color: darkgreen;
+}
+
+.textBlock {
+	display: flex;
+	flex-direction: column;
+	margin: auto;
+}
+
+.workPlace {
+	color: green;
+	font-weight: bold;
+}
+
+main section p {
+	/* line-height: 3px; */
+}
+main section a {
+	/* line-height: 3px; */
+}
+
+main section h3 {
+	color: green;
+}
+
+.photoBlock {
+	/* flex-basis: 20%; */
+	/* margin-left: 50px; */
+	margin: auto;
+	margin-top: 20px;
+	align-self: flex-start;
+}
+
+main section img {
+	display: block;
+  margin: auto;
+  height: 300px;
+  border-radius: 300px;
+}
